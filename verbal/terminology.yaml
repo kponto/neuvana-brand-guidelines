@@ -1,0 +1,22 @@
+status: "Draft. Price is intentionally omitted."
+preferred:
+  - "Neuvana" 
+  - "Xen" 
+  - "Neuvana Xen"
+  - "nervous system regulation"
+  - "frame" (as in "strengthen your frame", "the frame")
+banned:
+  - "cure / treat / prevent / diagnose"
+  - "reduces anxiety"
+  - "medical device"
+  - "FDA" / "cleared" / "approved"
+  - "opioid" / "withdrawal" / "OUD" / "addiction" / "prescription device"
+  - "VNS" on consumer marketing surfaces (use "nervous system regulation" instead)
+capitalization:
+  - "Neuvana" — title case
+  - "Xen" — title case
+  - "Neuvana Xen" — title case
+notes:
+  - "App presets: Focus, Calm, Sleep."
+  - "Signal patterns: Cityscape, High & Low, Mountaintop, Ocean Waves, Rolling Hills, Vista."
+  - "Pulse labels: A–F, R1."

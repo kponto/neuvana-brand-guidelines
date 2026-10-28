@@ -1,0 +1,29 @@
+status: "Draft. Constraints override every other file."
+claims_rules:
+  - "General wellness only. No medical or Rx claims."
+  - "Never present AI-generated people as real customers or users."
+  - "Pending review: 'Train your nervous system for life' implies cumulative improvement, which is a claim. Dave's 'No side effects' also needs review."
+  - "Cassie's 'First device that targets focus, sleep, calm' conflicts with 'First' being on the avoid list. Needs review."
+never_say:
+  - "cure / treat / prevent / diagnose"
+  - "reduces anxiety"
+  - "Any medical condition: anxiety, depression, insomnia, PTSD, chronic pain, autism"
+  - "Any FDA reference: FDA, cleared, approved"
+  - "medical device"
+  - "opioid, withdrawal, OUD, addiction, prescription device"
+  - "widen your window of tolerance (efficacy-adjacent)"
+  - "Train your nervous system for life (until reviewed)"
+separation_rules:
+  - "'we can't explicitly use consumer to actively promote medical or vice versa' (Kevin, 2026-05-12)"
+  - "Never mention the Rx indication on consumer surfaces."
+  - "One agent project per entity, never a combined one."
+channel_rules:
+  - "Meta: a custom audience or conversion name that implies a condition can disable the audience."
+  - "Meta grades ad creative, landing page and site event data independently. Clean ad copy does not protect the landing page."
+imagery_rules:
+  - "No before/after, no implied transformation, nothing hinting at Rx use."
+  - "Disclose AI imagery and apply platform labels."
+data_and_review_rules:
+  - "No customer-identifiable info, no individual health data, into any agent, ever."
+  - "No agent-generated copy making clinical efficacy or therapeutic claims ships without review."
+  - "Agent output lands in staging. Canonical pages are edited by people."
