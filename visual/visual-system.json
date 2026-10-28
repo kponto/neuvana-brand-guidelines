@@ -1,0 +1,61 @@
+{
+  "status": "v0.2 — colors and type locked by Kevin 2026-10-28. Claude's earlier palette and type candidates discarded.",
+  "colors": {
+    "palette": [
+      {"name": "Cloud", "hex": "#EEEDE8", "css": "--color-cloud: #EEEDE8;", "rgb": [238, 237, 232], "usage": "Light background field"},
+      {"name": "Sand", "hex": "#E4E1C2", "css": "--color-sand: #E4E1C2;", "rgb": [228, 225, 194], "usage": "Light background field"},
+      {"name": "Coral", "hex": "#ED9383", "css": "--color-coral: #ED9383;", "rgb": [237, 147, 131], "usage": "Accent in general marketing, sparse. May be used as a primary color when appropriate (still rare). App is separate."},
+      {"name": "Sea", "hex": "#007D82", "css": "--color-sea: #007D82;", "rgb": [0, 125, 130], "usage": "May be used as a primary color when appropriate (still rare). Accent otherwise."},
+      {"name": "Stone", "hex": "#284455", "css": "--color-stone: #284455;", "rgb": [40, 68, 85], "usage": "Primary dark field, text on light"},
+      {"name": "Tar", "hex": "#001C1E", "css": "--color-tar: #001C1E;", "rgb": [0, 28, 30], "usage": "High-contrast bars and darkest fields"}
+    ],
+    "rules": [
+      "Coral is used sparingly as an accent in general marketing materials.",
+      "Both Coral and Sea can be used as primary colors when appropriate. This should still be somewhat rare overall.",
+      "The app is a little different when it comes to color use. Do not apply marketing color rules to the app without checking.",
+      "Never apply brand colors to photography as a tint, overlay, or duotone."
+    ]
+  },
+  "typography": {
+    "status": "Locked by Kevin 2026-10-28.",
+    "headline": {
+      "family": "Figtree",
+      "roles": {
+        "hero": {"size": "72px", "line_height": 1.05, "tracking": "-0.02em"},
+        "h1": {"size": "48px", "line_height": 1.1, "tracking": "-0.015em"},
+        "h2": {"size": "32px", "line_height": 1.2, "tracking": "-0.01em"},
+        "h3": {"size": "24px", "line_height": 1.3, "tracking": "0"}
+      }
+    },
+    "body": {
+      "family": "Instrument Sans",
+      "roles": {
+        "body": {"size": "16px", "line_height": 1.5, "tracking": "0"},
+        "small": {"size": "14px", "line_height": 1.5, "tracking": "0"},
+        "caption": {"size": "12px", "line_height": 1.4, "tracking": "0.01em"}
+      }
+    },
+    "rules": [
+      "Flush-left, ragged-right setting.",
+      "Large size jumps in hierarchy."
+    ]
+  },
+  "layout": {
+    "the_frame": "The primary visual identifier. A rigid container that affords wide internal content variation while remaining branded. Metaphor: a regulated system (the nervous system + Neuvana) affords internal sway (a rich, full life). Order in the container, life in the content.",
+    "frame_formats": ["Polaroid", "Masthead", "Poster"],
+    "frame_notes": "Cafe, Airplane, and Office banners are individual instances of the Masthead format, not separate formats.",
+    "social_master": {
+      "size": "1080x1350",
+      "aspect": "4:5",
+      "border": "60px",
+      "polaroid_well": "960x990",
+      "masthead_well": "960x990",
+      "poster_well": "960x1230"
+    },
+    "image_aspect_ratios": ["3:2", "4:5", "1:1"],
+    "whitespace": "Always present, including on social. No full bleed.",
+    "shadows": "None"
+  },
+  "data_visualization": "A first-class brand surface. Real data only (HRV charts, real waveforms). No decorative or fake data.",
+  "motion": "[INCOMPLETE] Proposed, not specified."
+}
