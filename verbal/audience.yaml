@@ -1,0 +1,40 @@
+status: "[INCOMPLETE] Segments are assembled from stakeholder interviews and Sep 2026 casting notes. They have not been validated with customer data. Kermit: 'We don't know who our customers are. I'd like to see data.'"
+segments:
+  - name: "Sleep-first researcher"
+    role_description: "Core segment. Casting core is 45-65; 'Gen1 data showed users were older - in their 50s.' (Kermit). Researches before buying."
+    pain_states:
+      - "'Calm my mind so I can sleep.' / 'Turning off my mind.' (Cassie)"
+      - "'we're battling the day, the news, you're consuming so much before bed - it stays in your system' (Cassie)"
+      - "'We take melatonin, until we get used to that. We try thing after thing.' (Cassie)"
+      - "Night waking: 'Usually up five six times - can't get back to sleep.' (customer story, Ami)"
+    language_they_use:
+      - "Turn off the day."
+      - "Get a moment where I'm not worrying about life."
+      - "I was searching for answers."
+      - "I can sleep again."
+    decision_criteria:
+      - "'People who read reviews first.' (Cassie)"
+      - "Non-pharma option."
+      - "How they feel the next morning: 'Other solutions can knock you out - but how did you wake up?' (Cassie)"
+      - "Proof that it is doing something: 'Does this really work?' (Dave)"
+  - name: "Pharma-wary, everyday stress"
+    role_description: "Adults who want a non-pharmaceutical way to deal with everyday stress. 'Wary and weary of pharma.' (Ami)"
+    pain_states:
+      - "'fight or flight' (Cassie; workshop)"
+      - "'frazzled nervous system', 'overstimulation', 'system overload (times ten)' (workshop)"
+      - "'too many people are living in survival mode instead of actually feeling well' (workshop)"
+      - "'people have accepted chronic stress, poor sleep, and burnout as normal' (workshop)"
+    language_they_use:
+      - "Getting the body to relax a lot more."
+      - "Research only, do not publish: 'I can back to work because I don't need Xanax all day long.' (customer quote via Ami; names a medication)"
+    decision_criteria:
+      - "'Customer doesn't want to use pharma' (Ami)"
+      - "'Holistic, organic. They do research.' (Cassie)"
+      - "'Doesn't look weird' (Ami)"
+      - "Credible and not aggressive; Sensate is the reference (Ami)"
+  - name: "Health-invested optimizer"
+    role_description: "Secondary segment; casting secondary tier is 30s. 'This gen coming up spends money differently. Not sports cars, but elite gym memberships. Rather put money into me and my health.' (Ami)"
+    pain_states:
+      - "'attention spans are way down' (workshop)"
+    language_they_use: []
+    decision_criteria: []
