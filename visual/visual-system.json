@@ -44,9 +44,11 @@
     ]
   },
   "layout": {
-    "the_frame": "The primary visual identifier. A rigid container that affords wide internal content variation while remaining branded. Metaphor: a regulated system (the nervous system + Neuvana) affords internal sway (a rich, full life). Order in the container, life in the content.",
+    "the_frame": "The primary visual identifier. A rigid container that affords wide internal content variation while remaining branded. Metaphor: a regulated system (the nervous system + Neuvana) affords internal sway (a rich, full life). Order in the container, life in the content. See visual/frame.md for format definitions.",
     "frame_formats": ["Polaroid", "Masthead", "Poster"],
+    "frame_color": "Chosen to contrast the content. Lighter content, darker Frame. Darker content, lighter Frame.",
     "social_master": {
+      "note": "Size-specific application of the formats. Not the format definition. See visual/frame.md.",
       "size": "1080x1350",
       "aspect": "4:5",
       "border": "60px",
