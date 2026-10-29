@@ -8,7 +8,7 @@ The mark is a lotus-form line symbol. It is fixed for now. Kevin did not design 
 
 ## Assets
 
-All files are in `visual/assets/`. Cloud versions are light (for dark backgrounds). Tar versions are dark (for light backgrounds).
+All files are in `visual/assets/brand/`. Cloud versions are light (for dark backgrounds). Tar versions are dark (for light backgrounds).
 
 | File | Use |
 |---|---|

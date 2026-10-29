@@ -24,7 +24,8 @@ Open only the file(s) the task needs. Do not load the whole kit unless the task 
 | visual/frame.md | Frame formats: Masthead, Polaroid, Poster |
 | visual/art-direction.md | Photography: subjects, casting, light, grade, composition, captions |
 | visual/art-direction-graphics.md | AI imagery, illustration, data and signal graphics, music, promotions |
-| visual/logo.md | Logo use (solid line mark only) |
+| visual/logo.md | Logo use (solid line mark only). Assets in `visual/assets/brand/` |
+| visual/app.md | App screenshots. Assets in `visual/assets/app/` |
 | how-to-prompt.md | For humans: which files to paste for common tasks |
 
 ## Precedence
