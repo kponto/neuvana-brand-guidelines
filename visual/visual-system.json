@@ -53,8 +53,9 @@
     },
     "image_aspect_ratios": ["3:2", "4:5", "1:1"],
     "whitespace": "Always present when possible, including on social. No full bleed.",
+    "video": "Video can be full bleed for now and is not subject to the Frame at this time.",
     "shadows": "None"
   },
   "data_visualization": "A first-class brand surface. Real data only (HRV charts, real waveforms). No decorative or fake data.",
-  "motion": "[INCOMPLETE] Proposed, not specified."
+  "motion": "[INCOMPLETE] Proposed, not specified. Video is full bleed and not subject to the Frame for now."
 }
