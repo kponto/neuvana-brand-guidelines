@@ -20,6 +20,7 @@
     "status": "Locked by Kevin 2026-10-28.",
     "headline": {
       "family": "Figtree",
+      "source": "https://fonts.google.com/specimen/Figtree",
       "roles": {
         "hero": {"size": "72px", "line_height": 1.05, "tracking": "-0.02em"},
         "h1": {"size": "48px", "line_height": 1.1, "tracking": "-0.015em"},
@@ -29,6 +30,7 @@
     },
     "body": {
       "family": "Instrument Sans",
+      "source": "https://fonts.google.com/specimen/Instrument+Sans",
       "roles": {
         "body": {"size": "16px", "line_height": 1.5, "tracking": "0"},
         "small": {"size": "14px", "line_height": 1.5, "tracking": "0"},
@@ -37,7 +39,8 @@
     },
     "rules": [
       "Flush-left, ragged-right setting.",
-      "Large size jumps in hierarchy."
+      "Large size jumps in hierarchy.",
+      "Both typefaces are on Google Fonts."
     ]
   },
   "layout": {
