@@ -21,6 +21,10 @@
     "headline": {
       "family": "Figtree",
       "source": "https://fonts.google.com/specimen/Figtree",
+      "files": [
+        "visual/fonts/Figtree[wght].ttf",
+        "visual/fonts/Figtree-Italic[wght].ttf"
+      ],
       "roles": {
         "hero": {"size": "72px", "line_height": 1.05, "tracking": "-0.02em"},
         "h1": {"size": "48px", "line_height": 1.1, "tracking": "-0.015em"},
@@ -31,6 +35,10 @@
     "body": {
       "family": "Instrument Sans",
       "source": "https://fonts.google.com/specimen/Instrument+Sans",
+      "files": [
+        "visual/fonts/InstrumentSans[wdth,wght].ttf",
+        "visual/fonts/InstrumentSans-Italic[wdth,wght].ttf"
+      ],
       "roles": {
         "body": {"size": "16px", "line_height": 1.5, "tracking": "0"},
         "small": {"size": "14px", "line_height": 1.5, "tracking": "0"},
@@ -40,7 +48,7 @@
     "rules": [
       "Flush-left, ragged-right setting.",
       "Large size jumps in hierarchy.",
-      "Both typefaces are on Google Fonts."
+      "Both typefaces are on Google Fonts. Variable files and OFL licenses are in visual/fonts/."
     ]
   },
   "layout": {
