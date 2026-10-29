@@ -43,7 +43,6 @@
   "layout": {
     "the_frame": "The primary visual identifier. A rigid container that affords wide internal content variation while remaining branded. Metaphor: a regulated system (the nervous system + Neuvana) affords internal sway (a rich, full life). Order in the container, life in the content.",
     "frame_formats": ["Polaroid", "Masthead", "Poster"],
-    "frame_notes": "Cafe, Airplane, and Office banners are individual instances of the Masthead format, not separate formats.",
     "social_master": {
       "size": "1080x1350",
       "aspect": "4:5",
@@ -53,7 +52,7 @@
       "poster_well": "960x1230"
     },
     "image_aspect_ratios": ["3:2", "4:5", "1:1"],
-    "whitespace": "Always present, including on social. No full bleed.",
+    "whitespace": "Always present when possible, including on social. No full bleed.",
     "shadows": "None"
   },
   "data_visualization": "A first-class brand surface. Real data only (HRV charts, real waveforms). No decorative or fake data.",

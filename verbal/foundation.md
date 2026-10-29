@@ -16,7 +16,7 @@ These are the latest statements (Kevin, 2026-07-27):
 
 ## Hierarchy level names (internal vocabulary)
 
-The Dharma (belief), Turning the Wheel (vision), The Bodhi Tree (mission), The Middle Way (objective), The Departure (near-term). These names were recorded as adopted by the team in the 2026-07-18 session (adoption date unconfirmed). They replace North Star / Mars / Moon / Orbit / Launch Pad. [INCOMPLETE — a containment rule limiting where this vocabulary appears was proposed but not confirmed.]
+North Star / Mars / Moon / Orbit / Launch Pad. [INCOMPLETE — a containment rule limiting where this vocabulary appears was proposed but not confirmed.]
 
 ## Headline material derived from the foundation
 
