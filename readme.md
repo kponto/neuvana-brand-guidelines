@@ -4,6 +4,8 @@ Agent-readable brand kit for **Neuvana Life**, the consumer brand, and its devic
 
 **Status:** Draft v0.2, 2026-10-28. Overrides from Kevin applied. Items marked `[INCOMPLETE]` are missing or unconfirmed. Do not fill them in by inference.
 
+Human-readable version: `Neuvana-Brand-Guidelines.pdf` (basic type, color, logo, Frame).
+
 ## Use the most specific file
 
 Open only the file(s) the task needs. Do not load the whole kit unless the task spans copy and visuals. Always load `verbal/constraints.yaml` for any customer-facing copy or imagery.
