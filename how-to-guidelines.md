@@ -16,7 +16,7 @@ Always also load `verbal/constraints.yaml`.
 
 4. **Frame.** Use the Frame whenever possible. Do not use bento boxes or card grids as the layout system. Treat sections as multiple Frames. A section without a Frame is an exception and should be rare. See `visual/frame.md`.
 
-5. **No filler.** Include only sections that are in the kit or explicitly requested. Do not add principles, process, handoff, or “how to use this document” sections to fill space.
+5. **No filler.** Include only sections that are in the kit or explicitly requested. Do not add principles, process, handoff, or “how to use this document” sections to fill space. A guidelines document is a selection, not a transcription. Do not give each rule its own page. Combine related rules. If a slide restates a previous slide, cut it. Aim for the shortest document that still states the rules.
 
 6. **No invented principles.** Do not invent design, product, company, or positioning principles. Use the rules in the kit or say nothing. Do not paraphrase existing rules into new principle names.
 
@@ -25,6 +25,8 @@ Always also load `verbal/constraints.yaml`.
 8. **App vs marketing.** Do not apply app UI patterns, app color usage, or app component styles to marketing layouts. App screens, if shown, come from `visual/assets/app/` and are labeled as app reference only. See `visual/app.md`.
 
 9. **One concept per page.** In multi-page documents and decks, use one concept per page if possible. Do not combine palette, type, and logo on a single page unless the format is a one-pager or the prompt asks for it.
+
+10. **Audience.** Default audience is external (agency, vendor, partner). Do not place internal names (Kevin, Cassie, Dave, Ami, Kermit) or Rx/OUD material from `verbal/constraints.yaml` in an external document. State the never-say items and the consumer-only rule. Leave the pending-review notes and named staff out unless the prompt says the audience is internal.
 
 ## Default sections
 
@@ -49,5 +51,6 @@ Read these yourself:
 - `visual/logo.md`
 - `verbal/messaging.md`
 - `verbal/voice-and-tone.md`
+- `visual/examples/` (Anywhere banners and other production examples, for Frame pages)
 
 Add `visual/app.md` only if app screens are requested. Logo assets are in `visual/assets/brand/`. Font files are in `visual/fonts/`.

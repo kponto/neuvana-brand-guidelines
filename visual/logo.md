@@ -32,3 +32,5 @@ All files are in `visual/assets/brand/`. Cloud versions are light (for dark back
 - Clear space: [INCOMPLETE]
 - Minimum size: [INCOMPLETE]
 - Wordmark specification: [INCOMPLETE]
+
+Fills are set inline on each path. Do not move color back into a `<style>` block. Tools that strip style blocks will render the mark black if the fill is not on the path.
