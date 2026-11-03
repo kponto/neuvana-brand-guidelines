@@ -19,6 +19,7 @@ These instructions are for humans. Paste only the files listed for the task, and
 | App UI visuals | visual-system.json, logo.md, app.md |
 | Photo or AI image brief | art-direction.md, art-direction-graphics.md, visual-system.json, constraints.yaml |
 | FAQ / science page (teaching layer) | constraints.yaml, voice-and-tone.md (the “Short” exception), terminology.yaml, messaging-objections.md |
+| Human-readable guidelines or deck | how-to-guidelines.md, constraints.yaml, visual-system.json, frame.md, logo.md, messaging.md, voice-and-tone.md. Add app.md only if app screens are requested. |
 
 ## Review
 
