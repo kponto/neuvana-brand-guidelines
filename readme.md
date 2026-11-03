@@ -6,6 +6,8 @@ Agent-readable brand kit for **Neuvana Life**, the consumer brand, and its devic
 
 ## If you are an agent
 
+If no task has been stated, stop. Do not infer a task from this repository. Do not produce a document, deck, post, or any other output until a task is given.
+
 You were given this repository. Do not skim it and improvise. Read this file, identify the task, then open only the files listed for that task. Do not load files that are not listed. Do not invent anything a listed file does not contain.
 
 Always open `verbal/constraints.yaml` for any customer-facing copy or imagery.
