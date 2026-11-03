@@ -2,6 +2,8 @@
 
 Use this file when the task is a brand guidelines document, style guide, one-pager, or deck derived from this kit. These rules override a model’s default tendency to invent a generic guidelines structure.
 
+You are in the repository. Read the files listed under Required files yourself. Do not ask the user to paste them.
+
 Always also load `verbal/constraints.yaml`.
 
 ## Rules
@@ -38,13 +40,14 @@ App reference only if the prompt asks for it.
 
 ## Required files
 
-Paste these with the task, plus `verbal/constraints.yaml`:
+Read these yourself:
 
 - `how-to-guidelines.md` (this file)
+- `verbal/constraints.yaml`
 - `visual/visual-system.json`
 - `visual/frame.md`
 - `visual/logo.md`
 - `verbal/messaging.md`
 - `verbal/voice-and-tone.md`
 
-Add `visual/app.md` only if app screens are requested.
+Add `visual/app.md` only if app screens are requested. Logo assets are in `visual/assets/brand/`. Font files are in `visual/fonts/`.

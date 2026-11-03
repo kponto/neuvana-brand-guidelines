@@ -1,25 +1,14 @@
 # How to prompt
 
-These instructions are for humans. Paste only the files listed for the task, and always include `verbal/constraints.yaml`.
+These instructions are for humans.
 
-## Opening lines to paste with any task
+You do not need to pick files. Point the agent at the repository and name the task. `readme.md` is the entry point. It tells the agent which files to open.
 
-> Use only the attached brand files. If anything you need is marked [INCOMPLETE], stop and tell me instead of filling it in. Before returning a draft, check it against the tests in voice-and-tone.md and the never_say list in constraints.yaml, and list anything that needs claims review.
+## Opening line
 
-## Files by task
+> Read readme.md first. Identify the task, open only the files it lists, and follow them. Do not invent anything those files do not contain.
 
-| Task | Paste |
-|---|---|
-| Social post (copy) | constraints.yaml, voice-and-tone.md, messaging.md, audience.yaml (name the segment) |
-| Social post (image) | Add art-direction.md or art-direction-graphics.md, plus visual-system.json |
-| Meta ad | Social post files plus messaging-objections.md (Meta channel rules) |
-| Product page | constraints.yaml, positioning.md, messaging.md, messaging-objections.md, voice-and-tone.md, terminology.yaml; for layout add visual-system.json and logo.md |
-| Email | constraints.yaml, voice-and-tone.md, messaging.md, audience.yaml. Email rules are [INCOMPLETE]. |
-| App UI copy | constraints.yaml (correlation-language rule), voice-and-tone.md, terminology.yaml, app.md |
-| App UI visuals | visual-system.json, logo.md, app.md |
-| Photo or AI image brief | art-direction.md, art-direction-graphics.md, visual-system.json, constraints.yaml |
-| FAQ / science page (teaching layer) | constraints.yaml, voice-and-tone.md (the “Short” exception), terminology.yaml, messaging-objections.md |
-| Human-readable guidelines or deck | how-to-guidelines.md, constraints.yaml, visual-system.json, frame.md, logo.md, messaging.md, voice-and-tone.md. Add app.md only if app screens are requested. |
+For a guidelines document, one-pager, or deck, that is enough. `readme.md` routes the agent to `how-to-guidelines.md`, which lists its own required files.
 
 ## Review
 
