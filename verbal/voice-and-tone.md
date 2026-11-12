@@ -2,64 +2,77 @@
 
 ## Voice summary
 
-The governing rule (Kevin, 2026-09-30): copy “should almost be as dry as the grid. Not cold by any means, but zero fluff. Always short.”
+Plainspoken, warm, and credible. Clear enough for a first-time visitor. A light rhetorical edge is welcome on marketing surfaces (polyptoton, concrete moments, short turns of phrase). Not jokey. Not clinical. Not spa-mystical. Not biohacker hype.
 
-Still valid from the 2026-07-27 draft: “Plainspoken, warm, credible.” Not “biohacker hype, clinical coldness, or mystical spa-wellness.”
+Dryness is scoped. On Frames and other low-text social formats, copy should be almost as dry as the grid: zero fluff, always short. On the homepage and longer marketing surfaces, the same dryness is too flat. There the register is warmer and more recognitional while staying specific.
 
 ## Attributes
 
-**1. Dry**
-- Definition: zero fluff. Every word carries meaning.
-- Test: Delete each adjective and intensifier. If the meaning survives, the word was fluff.
-- Repair: Cut it, or replace it with a concrete noun, a named situation, or a number where claims allow.
+**1. Clear**
+- Definition: a reader who has never heard of the product can follow the line.
+- Test: Can someone picture what happens or what they get?
+- Repair: Lead with the outcome or the object, then the mechanism.
 
 **2. Specific**
-- Definition: “dry-specific, never dry-generic — every line contains something only this product or customer could say.”
-- Test: Could a competitor publish the line unchanged? “Wellness, simplified” fails.
-- Repair: Name a real moment, time or customer phrase. “Turn off the day” passes because it names a real 11pm.
+- Definition: every line contains something only this product or this moment could say.
+- Test: Could a competitor publish the line unchanged?
+- Repair: Name a real moment, a time, or a customer phrase. “Over coffee. On your commute.” passes. “Wellness, simplified” fails.
 
-**3. Short**
-- Definition: “Always short” on marketing surfaces. The teaching layer (science page, FAQ) may run longer but stays plain.
-- Test: Could the copy lose half its length and keep its point?
-- Repair: Cut it. Move explanation to the teaching layer and link to it.
+**3. Warm, not cold**
+- Definition: warmth comes from recognition of a real moment, not from adjectives.
+- Test: Does the line start from the person’s situation or from the device's features?
+- Repair: Lead with the moment. Put the mechanism second.
 
-**4. Warm, not cold**
-- Definition: the warmth comes from recognition, not adjectives. “Lead with emotion, not features.”
-- Test: Does the line start from the person's moment or feeling, or from the device's features?
-- Repair: Lead with the moment and put the mechanism second.
+**4. Light edge**
+- Definition: a small linguistic turn is allowed and preferred on headlines and key lines. Polyptoton, antithesis, and concrete lists are in. Jokes and wordplay for its own sake are out.
+- Test: Does the line have a slight twinkle without becoming cute?
+- Examples that pass: “Your nervous system doesn’t need to be so nervous.” / “The science is overwhelming—life doesn’t need to be.” / “Three steps. Then relax.”
+- Repair: If the line is flat, look for a natural repetition or contrast already in the meaning. If it is trying too hard, cut back to plain.
 
 **5. Credible, not hype**
-- Definition: the tonal model is Sensate, “trusted, legit, not aggressive - credible.” (Ami)
-- Test: “Does this content earn trust, or ask for it?” Flag any self-assertion (“trusted”, “proven”, “best”, “first”), urgency, or sale language.
-- Repair: Replace the assertion with proof: a real customer verbatim, a correlational data point from the app, or one plain sentence of mechanism.
+- Definition: earn trust with proof or plain mechanism. Do not ask for it.
+- Test: Flag self-assertion (“trusted,” “proven,” “best,” “first,” “you’ll be amazed”), urgency, or sale language.
+- Repair: Replace the assertion with a customer verbatim, a concrete detail, or one plain sentence of mechanism.
 
 **6. Plain about the science**
-- Definition: “Stop leaning so much on the science - dumb it down” (Cassie). Kermit: nobody knows what VNS is.
-- Test: Would a reader who has never heard of VNS follow it? Is there jargon (Hz, taVNS) on a marketing surface?
-- Repair: Lead with what it does (nervous system regulation), not the nerve it targets. Move jargon to the teaching layer.
+- Definition: lead with what it does (nervous system regulation), not the nerve or the technical term.
+- Test: Would a reader who has never heard of VNS follow it?
+- Repair: Use “nervous system regulation” or “gentle signal to your nervous system” on marketing surfaces. Move jargon to the science page.
 
-## Registers
+## Registers by surface
 
-- **Aphorism:** headlines only, and used sparingly. “An all-aphorism system reads as a poetry brand.” Existing lines: “You can't think your way to calm.” / “Agency, embodied.” / “The oldest system, the newest frontier.” / “Our signal is health.”
-- **Flat-specific:** everything else, meaning body copy, UI, captions and product pages.
-- **Customer verbatims:** shown as-is, minimally edited, and set typographically apart from the brand voice.
-- **Captions:** documentation register, “factual, timestamped, specific.” Example: “Second session. 11:40pm.”
+- **Homepage and longer marketing:** outcome or frame first, mechanism in support, concrete day-parts and moments, light rhetorical edge allowed. Sleep / calm / focus are outcomes, not the lead.
+- **Frames and tight social:** dry, short, almost elegant. One idea. Minimal lines.
+- **Product and how-it-works blocks:** concrete and direct. Discreet, pocket-friendly, no-new-habits language is useful here.
+- **App steps:** short, imperative, sequential.
+- **Customer verbatims:** shown as-is, set apart from brand voice.
+- **Captions:** factual and specific.
+
+## Production lines (use as-is or close)
+
+- Your nervous system doesn’t need to be so nervous.
+- Strengthen your frame.
+- Get back to baseline.
+- Anytime. Anywhere.
+- Plug it into any part of your day.
+- Turn off the day.
+- Train your frame with Neuvana Xen. / Strengthen your frame with Neuvana Xen.
 
 ## Do / don't
 
 | Do | Don't |
 |---|---|
-| “Turn off the day” | “Wellness, simplified” |
-| Lead with what it does: nervous system regulation | Lead with “vagus nerve stimulation” |
-| “Feel calmer”, “supports better sleep quality” | “reduces anxiety” |
-| Verbatims left unedited and set apart | Quotes rewritten into the brand voice |
-| Headlines with aphorisms used sparingly | Copy made up entirely of aphorisms |
-| Music as texture and proof of a normal day | Music as the lead |
+| Lead with a felt state or frame line on the homepage | Lead the homepage with mechanism or “stick the earbuds in” |
+| “A well-regulated nervous system means more capacity for the life you’re already living.” | “You’ll be amazed…” or other generic hype |
+| Concrete moments: over coffee, on your commute, at your desk | Generic lifestyle claims |
+| “Discreet, pocket-friendly” / “purse-friendly” | “Small puck” or overly technical form-factor language early |
+| Music as an optional enhancer | Music as the primary pitch |
+| “Nervous system regulation” / “gentle signal” | “Vagus nerve stimulation” or “VNS” on consumer surfaces |
+| Short steps: Pair. Start. Adjust. | Long instructional paragraphs in marketing sections |
+| Verbatims left unedited | Quotes rewritten into brand voice |
 
-## Punctuation and formality
+## Notes
 
-[INCOMPLETE — the source materials contain no punctuation or formality rules.] Observed, not a rule: source headlines end in a period (“Agency, embodied.”). Text is set flush-left, ragged-right.
-
-## Recorded tension
-
-Cassie wants “storytelling” and to “pull on the heartstrings”. Recorded resolution (recommendation, not client-confirmed): images and verbatims carry the story; copy stays dry-specific.
+- Sleep, calm, and focus are real benefits. They can appear lower on the page or in the app. They should not carry the homepage hero.
+- “Train your nervous system for life” remains pending review. Prefer “train your frame” or “strengthen your frame.”
+- All customer-facing copy still goes through human review. Constraints.yaml overrides this file.
