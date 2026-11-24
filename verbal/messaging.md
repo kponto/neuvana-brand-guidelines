@@ -11,18 +11,24 @@ These lines appear in production assets. They are observed, not invented. Use th
 
 ## Primary message
 
-[INCOMPLETE — there is no approved primary message.]
+Approved lines. Use the one that matches the surface and audience. Focus / calm / sleep remain supporting outcomes only; they do not lead.
 
-Closest source material:
+1. **Strengthen your frame. A well-regulated nervous system means more room for the life you’re already living.**
+   - Context: day-to-day capacity, keeping a head above water. Busy moms, 40+ women, frazzled people.
 
-- Benefit set: “If you want to rest, sleep, focus - try Neuvana.” (Cassie)
-- Internal near-term statement: “We will make VNS as simple, accessible, and enjoyable as listening to music.” It is not consumer copy, and it leads with “VNS”.
+2. **Up your resilience and cut the chaos. Train your nervous system like you train your body.**
+   - Context: preventative training, gym language, wellness optimization. Active professionals, Huberman/Rogan types.
+   - Note: “cut the chaos” preferred over “cull” or “kill” for plainspoken tone.
+
+3. **Your nervous system is the frame through which you experience the world. Strengthen that frame with Neuvana.**
+   - Context: concept explainer / introduction, welcome language. Softer audience, general public.
 
 ## Benefit language (general wellness only)
 
 - Benefit words: calm, relaxation, stress relief, better sleep quality, focus.
 - Sleep is the centre of gravity: “SLEEP” (Cassie, Ami); “Everything is downstream from sleep” (Kermit).
 - “Calm and prepared during the day, means calm when it's time to sleep.” (Cassie)
+- These remain available lower in the hierarchy or as proof points. They do not carry the primary message.
 
 ## Secondary messages
 
