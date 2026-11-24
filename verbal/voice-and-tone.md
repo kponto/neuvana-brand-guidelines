@@ -48,10 +48,11 @@ Dryness is scoped. On Frames and other low-text social formats, copy should be a
 - **Customer verbatims:** shown as-is, set apart from brand voice.
 - **Captions:** factual and specific.
 - **Conversion surfaces** (App Store, Play Store, ads, homepage hero, email subject + preview, landing-page above-the-fold):
-  - First line or first two lines must name a concrete outcome or use case a stranger can understand.
-  - Mechanism, “frame,” or production lines may follow, but they do not lead unless the surface is already brand-heavy (e.g., existing social Frame).
-  - Define or avoid unexplained product terms until after the outcome is clear.
-  - Stay inside constraints.yaml. Concrete general-wellness outcomes already listed in messaging.md (calm, better sleep quality, focus, winding down) are allowed in the opening.
+  - Sequence: outcome line (the value proposition to the user), then plain-language mechanism sentence, then product terms or controls.
+  - Outcome line: first line or first two lines. Must name a concrete outcome or concept a stranger can understand. Use an approved primary message from messaging.md.
+  - Plain-language mechanism sentence: follows the outcome. States what the product does in ordinary language (for example, “delivers a gentle signal for nervous system regulation”). Required before any unexplained product terms.
+  - Product terms and controls: come after the mechanism. Define or avoid “session,” “signal,” mode names, and similar terms until the outcome and mechanism are clear.
+  - Stay inside constraints.yaml. Supporting outcomes (calm, better sleep quality, focus) may appear after the primary message; they do not lead.
 
 ## Production lines (use as-is or close)
 
