@@ -47,6 +47,11 @@ Dryness is scoped. On Frames and other low-text social formats, copy should be a
 - **App steps:** short, imperative, sequential.
 - **Customer verbatims:** shown as-is, set apart from brand voice.
 - **Captions:** factual and specific.
+- **Conversion surfaces** (App Store, Play Store, ads, homepage hero, email subject + preview, landing-page above-the-fold):
+  - First line or first two lines must name a concrete outcome or use case a stranger can understand.
+  - Mechanism, “frame,” or production lines may follow, but they do not lead unless the surface is already brand-heavy (e.g., existing social Frame).
+  - Define or avoid unexplained product terms until after the outcome is clear.
+  - Stay inside constraints.yaml. Concrete general-wellness outcomes already listed in messaging.md (calm, better sleep quality, focus, winding down) are allowed in the opening.
 
 ## Production lines (use as-is or close)
 
